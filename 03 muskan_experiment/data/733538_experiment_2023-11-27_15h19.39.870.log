@@ -1,0 +1,117 @@
+7.0899 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+8.5259 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+8.5273 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd41c2c1dc0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd41c2c1d60>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd41c2c1b80>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fd41daa3370>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.5354 	EXP 	window1: mouseVisible = True
+8.5355 	EXP 	window1: backgroundImage = ''
+8.5355 	EXP 	window1: backgroundFit = 'none'
+8.5392 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.5392 	EXP 	window1: recordFrameIntervals = False
+8.6266 	EXP 	window1: recordFrameIntervals = True
+9.4599 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+9.4638 	EXP 	window1: mouseVisible = False
+13.1945 	EXP 	experiment: status = STARTED
+13.2040 	EXP 	window1: mouseVisible = True
+13.2119 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+13.2165 	EXP 	window1: mouseVisible = True
+13.2587 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128.0, units='height', win=Window(...))
+0.0810 	EXP 	Imported t.xlsx as conditions, 23 conditions, 1 params
+0.0828 	EXP 	Created sequence: sequential, trialTypes=23, nReps=1, seed=None
+0.0830 	EXP 	New trial (rep=0, index=0): {'pic': 'images/Bnw1.jpeg'}
+0.1271 	WARNING 	t of last frame was 67.43ms (=1/14)
+0.1271 	EXP 	image: image = 'images/Bnw1.jpeg'
+0.1271 	EXP 	fixation: autoDraw = True
+0.4969 	EXP 	image: autoDraw = True
+0.6242 	EXP 	fixation: autoDraw = False
+1.9510 	WARNING 	t of last frame was 20.97ms (=1/47)
+1.9864 	EXP 	New trial (rep=0, index=1): {'pic': None}
+1.9942 	EXP 	image: autoDraw = False
+1.9942 	EXP 	fixation: autoDraw = False
+1.9942 	EXP 	image: autoDraw = False
+1.9942 	EXP 	image: image = None
+1.9942 	EXP 	fixation: autoDraw = True
+2.4891 	EXP 	fixation: autoDraw = False
+2.4891 	EXP 	image: autoDraw = True
+3.9756 	EXP 	New trial (rep=0, index=2): {'pic': None}
+3.9849 	EXP 	image: autoDraw = False
+3.9849 	EXP 	fixation: autoDraw = False
+3.9849 	EXP 	image: autoDraw = False
+3.9849 	EXP 	image: image = None
+3.9917 	EXP 	fixation: autoDraw = True
+4.4850 	EXP 	fixation: autoDraw = False
+4.4900 	EXP 	image: autoDraw = True
+5.9753 	EXP 	New trial (rep=0, index=3): {'pic': None}
+5.9851 	EXP 	image: autoDraw = False
+5.9851 	EXP 	fixation: autoDraw = False
+5.9851 	EXP 	image: autoDraw = False
+5.9851 	EXP 	image: image = None
+5.9931 	EXP 	fixation: autoDraw = True
+6.4892 	EXP 	fixation: autoDraw = False
+6.4892 	EXP 	image: autoDraw = True
+7.9758 	EXP 	New trial (rep=0, index=4): {'pic': None}
+7.9850 	EXP 	image: autoDraw = False
+7.9850 	EXP 	fixation: autoDraw = False
+7.9850 	EXP 	image: autoDraw = False
+7.9850 	EXP 	image: image = None
+7.9919 	EXP 	fixation: autoDraw = True
+8.4853 	EXP 	fixation: autoDraw = False
+8.4898 	EXP 	image: autoDraw = True
+9.9752 	EXP 	New trial (rep=0, index=5): {'pic': None}
+9.9851 	EXP 	image: autoDraw = False
+9.9851 	EXP 	fixation: autoDraw = False
+9.9851 	EXP 	image: autoDraw = False
+9.9851 	EXP 	image: image = None
+9.9923 	EXP 	fixation: autoDraw = True
+10.4898 	EXP 	fixation: autoDraw = False
+10.4898 	EXP 	image: autoDraw = True
+12.0272 	WARNING 	t of last frame was 108.02ms (=1/9)
+12.0277 	EXP 	New trial (rep=0, index=6): {'pic': None}
+12.0336 	EXP 	fixation: autoDraw = False
+12.0336 	EXP 	image: autoDraw = False
+12.0336 	EXP 	image: image = None
+12.0336 	EXP 	fixation: autoDraw = True
+12.0679 	WARNING 	t of last frame was 20.86ms (=1/47)
+12.4919 	EXP 	image: autoDraw = True
+12.5234 	EXP 	fixation: autoDraw = False
+13.9872 	EXP 	New trial (rep=0, index=7): {'pic': None}
+13.9947 	EXP 	image: autoDraw = False
+13.9947 	EXP 	fixation: autoDraw = False
+13.9947 	EXP 	image: autoDraw = False
+13.9947 	EXP 	image: image = None
+13.9947 	EXP 	fixation: autoDraw = True
+14.4899 	EXP 	fixation: autoDraw = False
+14.4899 	EXP 	image: autoDraw = True
+15.9752 	EXP 	New trial (rep=0, index=8): {'pic': None}
+15.9848 	EXP 	image: autoDraw = False
+15.9848 	EXP 	fixation: autoDraw = False
+15.9848 	EXP 	image: autoDraw = False
+15.9848 	EXP 	image: image = None
+15.9915 	EXP 	fixation: autoDraw = True
+16.4856 	EXP 	fixation: autoDraw = False
+16.4903 	EXP 	image: autoDraw = True
+17.9754 	EXP 	New trial (rep=0, index=9): {'pic': None}
+17.9853 	EXP 	image: autoDraw = False
+17.9853 	EXP 	fixation: autoDraw = False
+17.9853 	EXP 	image: autoDraw = False
+17.9853 	EXP 	image: image = None
+17.9926 	EXP 	fixation: autoDraw = True
+18.4856 	EXP 	fixation: autoDraw = False
+18.4906 	EXP 	image: autoDraw = True
+19.9759 	EXP 	New trial (rep=0, index=10): {'pic': None}
+19.9846 	EXP 	image: autoDraw = False
+19.9846 	EXP 	fixation: autoDraw = False
+19.9846 	EXP 	image: autoDraw = False
+19.9846 	EXP 	image: image = None
+19.9913 	EXP 	fixation: autoDraw = True
+20.4857 	EXP 	fixation: autoDraw = False
+20.4904 	EXP 	image: autoDraw = True
+20.7885 	EXP 	experiment: status = STOPPED
+20.7930 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+20.7930 	EXP 	image: autoDraw = False
+20.7930 	EXP 	experiment: status = STOPPED
+20.9029 	EXP 	window1: mouseVisible = True
